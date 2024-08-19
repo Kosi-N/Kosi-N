@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Kosi-N
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in Marketing and data analytics
 - 🌱 I’m currently learning sql and python
-- 💞️ I’m looking to collaborate on sql projects
+- 💞️ I’m looking to collaborate on sql and python projects
 - 📫 How to reach me here!
 - 😄 Pronouns: her
-- ⚡ Fun fact: I can dishes after tasting them without a recipe
+- ⚡ Fun fact: I can recreate dishes by relying solely on my taste buds, without needing a written recipe
 
 <!---
 Kosi-N/Kosi-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
